@@ -6,7 +6,7 @@
 
 <h1> Cristian Caleb Fontanilla Ramirez </h1>
 
-### System Engineer y Data Scientist
+## System Engineer y Data Scientist
 
 
 <div>
