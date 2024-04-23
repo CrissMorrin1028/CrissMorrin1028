@@ -32,7 +32,13 @@
 
 </div>
 
-## Muestra de trabajos
+## Mis Proyectos
+
+<div>
+  <a href="https://fastapi-steam-services.koyeb.app/docs" target="_blank">
+    <img src="ruta de tu imagen pequeña" alt="FastAPI Project">
+  </a>
+</div>
 
 ### Proyectos
 
