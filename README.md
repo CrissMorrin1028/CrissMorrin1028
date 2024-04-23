@@ -34,15 +34,13 @@
 
 ## Mis Proyectos
 
-<div style="text-align: center; border: 1px solid black; padding: 10px; width: 200px;">
-  <a href="https://fastapi-steam-services.koyeb.app/docs" target="_blank">
-    <p style="font-weight: bold;">FastAPI Project</p>
-    <img src="ruta_de_tu_imagen_pequeña.jpg" alt="FastAPI Project" style="max-width: 100px;">
-  </a>
-</div>
-<div style="margin-top: 10px;">
-  <a href="https://fastapi-steam-services.koyeb.app/docs" target="_blank">https://fastapi-steam-services.koyeb.app/docs</a>
-</div>
+## Mis Proyectos
+
+En este enlace encontrarás el desarrollo de una API usando FastAPI para Steam Games con 7 endpoints: [FastAPI Steam Services](https://fastapi-steam-services.koyeb.app/docs)
+
+Para más información del proyecto: [PI01 API](https://github.com/CrissMorrin1028/PI01-MLOps-STEAM)
+
+Proyecto Final NYC Taxis & Carbon Emission: [Final Project](https://github.com/micjb/FinalProject)
 
 
 ## Contacto
