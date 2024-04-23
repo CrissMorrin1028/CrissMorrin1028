@@ -36,16 +36,10 @@
 
 <div>
   <a href="https://fastapi-steam-services.koyeb.app/docs" target="_blank">
-    <img src="ruta de tu imagen pequeña" alt="FastAPI Project">
+    <img src="ruta_de_tu_imagen_pequeña.jpg" alt="FastAPI Project" style="max-width: 100px;">
   </a>
 </div>
 
-### Proyectos
-
-<div>
-
-
-</div>
 
 ## Contacto
 
