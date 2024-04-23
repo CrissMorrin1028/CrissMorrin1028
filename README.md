@@ -6,11 +6,8 @@
 
 <h1> Cristian Caleb Fontanilla Ramirez </h1>
 
-### Data Analyst y Data Scientist
+### System Engineer y Data Scientist
 
-
-
-## Mi Stack tecnologico
 
 <div>
 <h2 align="left"> Lenguajes y herramientas</h2>
