@@ -1,9 +1,10 @@
 <div align="center">
 
 ![Banner](pone un banner o algo.png)
+
 </div>
 
-<h1> Cristian Fontanilla </h1>
+<h1> Cristian Caleb Fontanilla Ramirez </h1>
 
 ### Data Analyst y Data Scientist
 
