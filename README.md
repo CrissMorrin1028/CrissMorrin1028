@@ -34,10 +34,14 @@
 
 ## Mis Proyectos
 
-<div>
+<div style="text-align: center; border: 1px solid black; padding: 10px; width: 200px;">
   <a href="https://fastapi-steam-services.koyeb.app/docs" target="_blank">
+    <p style="font-weight: bold;">FastAPI Project</p>
     <img src="ruta_de_tu_imagen_pequeña.jpg" alt="FastAPI Project" style="max-width: 100px;">
   </a>
+</div>
+<div style="margin-top: 10px;">
+  <a href="https://fastapi-steam-services.koyeb.app/docs" target="_blank">https://fastapi-steam-services.koyeb.app/docs</a>
 </div>
 
 
