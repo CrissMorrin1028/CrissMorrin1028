@@ -2,15 +2,15 @@
 
 ![Banner](https://media.licdn.com/dms/image/D4E16AQHm87ZGwNYBxg/profile-displaybackgroundimage-shrink_350_1400/0/1713812980881?e=1719446400&v=beta&t=izV8_bG5sEndSStEsgr_UOsXU3T1VTyoBa3bQEXGTyM)
 
+
 </div>
-
-<h1> Cristian Caleb Fontanilla Ramirez </h1>
-
-# System Engineer y Data Scientist
+<h1 align="center">Hola, soy Cristian Fontanilla </h1>
+<h3 align="center">System Engineer y Data Scientist</h3>
+</div>
 
 
 <div>
-<h2 align="left"> Lenguajes y herramientas</h2>
+<h2 align="left">Mi stack tecnológico</h2>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
@@ -50,14 +50,20 @@ Para más información del proyecto: [PI01 API](https://github.com/CrissMorrin10
 
 Proyecto Final NYC Taxis & Carbon Emission: [Final Project](https://github.com/micjb/FinalProject)
 
+<h3 align="left">👨‍💻 Hablando de cosas personales:</h3>
 
-## Contacto
+- 🔭 Actualmente estoy interesado en desarrollar un proyecto usando modelos Transformers de Hugging Face y librerías de creación de gráficos como OpenGL.
+- 🌱 Actualmente estoy aprendiendo más sobre Data Engineering, Data Analytics y Machine Learning.
+- 👨‍💻 Todos mis proyectos están disponibles en [GitHub](https://github.com/CrissMorrin1028)
+
 
 <div>
-<a href="https://www.linkedin.com/in/cristian-fontanilla-2231bb1ab/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
-</div>
-<div>
-<a href="mailto:cristianfontanilla19@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
+
+<h3 align="left"> Contacto</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/cristian-fontanilla-2231bb1ab/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" style="margin-right: 10px;" /></a>
+  <a href="mailto:cristianfontanilla19@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="30" width="30" style="margin-bottom: -5px;" /></a>
+</p>
 </div>
 
 
