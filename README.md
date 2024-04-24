@@ -5,7 +5,7 @@
 
 </div>
 <h1 align="center">Hola, soy Cristian Fontanilla </h1>
-<h3 align="center">System Engineer y Data Scientist</h3>
+<p>Data Science y Estudiante de Ingeniería de Sistemas. Mi experiencia abarca desde el desarrollo de software hasta el análisis de datos. Como científico de datos, me apasiona explorar conjuntos de datos complejos, aplicar técnicas de Machine Learning para generar insights valiosos y construir modelos predictivos que impulsen la toma de decisiones informadas. Desde la limpieza y preparación de datos hasta la creación de visualizaciones impactantes y el despliegue de modelos en entornos de producción, estoy comprometido con cada etapa del ciclo de vida del análisis de datos. Estoy constantemente aprendiendo y buscando desafíos nuevos y emocionantes en este campo en constante evolución. ¡Con gusto te invito a explorar mi perfil y conectarnos para hablar más sobre cómo podemos aprovechar el poder de los datos juntos! ¡Me encanta convertir los datos en acciones significativas!</p>
 </div>
 
 
