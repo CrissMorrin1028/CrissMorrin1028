@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://media.licdn.com/dms/image/D4E16AQHm87ZGwNYBxg/profile-displaybackgroundimage-shrink_350_1400/0/1713812980881?e=1719446400&v=beta&t=izV8_bG5sEndSStEsgr_UOsXU3T1VTyoBa3bQEXGTyM)
+![Banner](https://i.gifer.com/D0tF.gif)
 
 
 </div>
